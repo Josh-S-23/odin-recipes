@@ -1,0 +1,82 @@
+h1 {
+    text-align: center;
+    font-size: 65px;
+    margin-top: 60px;
+}
+
+li {
+    color:whitesmoke;
+}
+
+#homepageList:hover {
+   color: black;
+}
+
+ul {
+    text-decoration: none;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+a:hover {
+    text-decoration: none;
+    color: black;
+}
+
+body, h1 {
+    font-family: arial;
+}
+
+#homepage {
+    background-color: orangered;
+    color: whitesmoke;
+    font-size: 20px;
+    
+}
+
+#appleCrispBody {
+    background-color: red;
+    color: white;
+    font-size: 20px;
+}
+
+#macAndCheeseBody {
+    background-color: yellow;
+    color: black;
+    font-size: 20px;
+}
+
+#squashBody {
+    background-color: burlywood;
+    color: white;
+    font-size: 20px;
+}
+
+ #macIngredients, #macSteps{
+    color: black;
+}
+
+img {
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+    display: block;
+}
+
+h4 {
+    text-align: center;
+}
+
+ol {
+    text-align: justify;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+p {
+    text-align: center;
+}
